@@ -1,3 +1,3 @@
 # CarDealership
 
-A kids luxury car dealership with a Peter Pan and Neverland theme.
+A kids luxury car dealership with a Neverland/Peter Pan theme.
